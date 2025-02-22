@@ -40,6 +40,16 @@ apt update && upgrade
 apt install grafana
 apt install grafana-enterprise
 
+
+systemctl start grafana-server
+systemctl enable grafana-server
+systemctl status grafana-server
+
+apt install nginx
+apt update && upgrade 
+
+http://192.168.180.129:3000
+
 end
 
 
