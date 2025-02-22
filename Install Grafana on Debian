@@ -49,7 +49,10 @@ apt install nginx
 apt update && upgrade 
 
 http://192.168.180.129:3000
+User : admin
+Pass : admin
+
 
 end
-
-
+https://grafana.com/docs/grafana/latest/setup-grafana/installation/
+https://www.cherryservers.com/blog/install-grafana-ubuntu
