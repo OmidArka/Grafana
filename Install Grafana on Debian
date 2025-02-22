@@ -57,6 +57,7 @@ Pass : admin
  systemctl restart grafana-server
 بعد از نصب وارد محیط گرافانا شده و سپس در قسمت ادمینیستریتور قسمت پلاگین زبیکس رو سرچ و فعال میکنیم 
 
+بعد در قسمت کانکشنز قسمت دیتا سورس زبیکس رو سرچ و میسازیم و اطلاعات رو وارد میکنیم 
 end
 https://grafana.com/docs/grafana/latest/setup-grafana/installation/
 https://www.cherryservers.com/blog/install-grafana-ubuntu
